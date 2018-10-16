@@ -1,0 +1,31 @@
+.walrus-showing {
+    display: none;
+  }
+
+img {
+    height: 200px;
+    width: 300px;
+  }
+
+ .click{
+     cursor: pointer;
+     color:#0088cc;
+ } 
+
+.click:hover{
+    color:red;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.click1{
+    cursor: pointer;
+    color:#0088cc;
+} 
+
+.click1:hover{
+   color:red;
+   font-size: 30px;
+   text-decoration: underline;
+}
+
